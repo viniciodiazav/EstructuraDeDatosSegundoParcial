@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1777156610 source:c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\main.cpp
+	<iostream>
+	"ICola.h"
+	"Cola.h"
+	"ImprimirCola.h"
+
+1777143534 source:c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\src\dato.cpp
+	"Dato.h"
+
+1777143548 c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\include\dato.h
+
+1777143849 source:c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\src\colaalmacenamiento.cpp
+	"ColaAlmacenamiento.h"
+
+1777143810 c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\include\colaalmacenamiento.h
+	"ICola.h"
+
+1777143944 c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\include\icola.h
+	"Dato.h"
+
+1777144202 c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\include\cola.h
+	"ColaAlmacenamiento.h"
+
+1777144503 source:c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\src\cola.cpp
+	"Cola.h"
+	<iostream>
+
+1777145059 source:c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\src\imprimircola.cpp
+	"ImprimirCola.h"
+	<iostream>
+
+1777144566 c:\users\ldiaza2200\desktop\estructuradedatos\colas\colaconpunteros\include\imprimircola.h
+	"ICola.h"
+

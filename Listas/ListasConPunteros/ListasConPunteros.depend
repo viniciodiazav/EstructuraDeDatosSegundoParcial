@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1777158248 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\main.cpp
+	<iostream>
+	"ILista.h"
+	"Lista.h"
+	"ImprimirLista.h"
+
+1777145163 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\src\dato.cpp
+	"Dato.h"
+
+1777145173 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\include\dato.h
+
+1777145185 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\src\ilista.cpp
+
+1777145304 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\src\listaalmacenamiento.cpp
+	"ListaAlmacenamiento.h"
+
+1777145263 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\include\listaalmacenamiento.h
+	"ILista.h"
+
+1777145970 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\include\ilista.h
+	"Dato.h"
+
+1777157911 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1777146001 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\include\lista.h
+	"ListaAlmacenamiento.h"
+	"Dato.h"
+
+1777155761 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\src\imprimirlista.cpp
+	"ImprimirLista.h"
+	<iostream>
+
+1777145481 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listasconpunteros\include\imprimirlista.h
+	"ILista.h"
+
