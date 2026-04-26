@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1777177006 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\main.cpp
+	<iostream>
+	"ILista.h"
+	"Lista.h"
+	"ImprimirLista.h"
+
+1777170386 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\src\dato.cpp
+	"Dato.h"
+
+1777170398 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\include\dato.h
+
+1777172961 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\src\listaalmacenamiento.cpp
+	"ListaAlmacenamiento.h"
+
+1777172879 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\include\listaalmacenamiento.h
+	"ILista.h"
+
+1777172846 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\include\ilista.h
+	"Dato.h"
+
+1777176781 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1777173453 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\include\lista.h
+	"ListaAlmacenamiento.h"
+
+1777174000 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\src\imprimirlista.cpp
+	"ImprimirLista.h"
+	<iostream>
+
+1777173776 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconarreglo\include\imprimirlista.h
+	"ILista.h"
+
