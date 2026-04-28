@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="ListaConArreglo" />
+		<Option title="ColaConLibreria" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc-mingw32" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/ListaConArreglo" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/ColaConLibreria" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc-mingw32" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/ListaConArreglo" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/ColaConLibreria" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc-mingw32" />
@@ -25,16 +25,13 @@
 				</Compiler>
 			</Target>
 		</Build>
+		<Unit filename="include/Cola.h" />
 		<Unit filename="include/Dato.h" />
-		<Unit filename="include/ILista.h" />
-		<Unit filename="include/ImprimirLista.h" />
-		<Unit filename="include/Lista.h" />
-		<Unit filename="include/ListaAlmacenamiento.h" />
+		<Unit filename="include/ICola.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Cola.cpp" />
 		<Unit filename="src/Dato.cpp" />
-		<Unit filename="src/ImprimirLista.cpp" />
-		<Unit filename="src/Lista.cpp" />
-		<Unit filename="src/ListaAlmacenamiento.cpp" />
+		<Unit filename="src/ICola.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

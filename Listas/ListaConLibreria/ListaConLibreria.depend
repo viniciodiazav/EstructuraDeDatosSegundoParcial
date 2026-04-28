@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1740933562 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconlibreria\main.cpp
+	<iostream>
+
+1777219446 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconlibreria\src\dato.cpp
+	"Dato.h"
+
+1777219436 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconlibreria\include\dato.h
+
+1777219528 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconlibreria\src\ilista.cpp
+
+1777219522 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconlibreria\include\ilista.h
+	"Dato.h"
+
+1777219554 source:c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconlibreria\src\lista.cpp
+	"Lista.h"
+
+1777219644 c:\users\ldiaza2200\desktop\estructuradedatos\listas\listaconlibreria\include\lista.h
+	"ILista.h"
+	<list>
+
