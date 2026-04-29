@@ -33,13 +33,14 @@
 
 1777330572 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\directo\burbuja\include\burbuja.h
 
-1777333435 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\burbuja\main.cpp
+1777399882 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\burbuja\main.cpp
 	<iostream>
 	"IArreglo.h"
 	"IArregloDato.h"
 	"Arreglo.h"
 	"ArregloDato.h"
 	"Burbuja.h"
+	"BurbujaDato.h"
 	"ImprimirArreglo.h"
 	"ImprimirDatoArreglo.h"
 
@@ -66,7 +67,7 @@
 	"ArregloContenido.h"
 	<iostream>
 
-1777330835 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\burbuja\src\burbuja.cpp
+1777333818 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\burbuja\src\burbuja.cpp
 	"Burbuja.h"
 
 1777332198 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\burbuja\src\dato.cpp
@@ -99,7 +100,7 @@
 1777333297 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\burbuja\include\imprimirdatoarreglo.h
 	"Dato.h"
 
-1777333809 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\burbuja\src\burbujadato.cpp
+1777397264 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\burbuja\src\burbujadato.cpp
 	"BurbujaDato.h"
 
 1777333502 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\burbuja\include\burbujadato.h

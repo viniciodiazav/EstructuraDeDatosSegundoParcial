@@ -44,7 +44,6 @@
 		<Unit filename="src/Burbuja.cpp" />
 		<Unit filename="src/BurbujaDato.cpp" />
 		<Unit filename="src/Dato.cpp" />
-		<Unit filename="src/IArregloDato.cpp" />
 		<Unit filename="src/ImprimirArreglo.cpp" />
 		<Unit filename="src/ImprimirDatoArreglo.cpp" />
 		<Extensions />

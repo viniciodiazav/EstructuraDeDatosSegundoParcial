@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1777423713 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\main.cpp
+	<iostream>
+	"Arreglo.h"
+	"MergeSort.h"
+	"ImprimirArreglo.h"
+
+1777420199 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\arreglo.cpp
+	"Arreglo.h"
+
+1777420249 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\arreglo.h
+	"ArregloContenido.h"
+
+1777420263 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\arreglocontenido.h
+	"IArreglo.h"
+
+1777420275 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\iarreglo.h
+
+1777420211 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\arreglocontenido.cpp
+	"ArregloContenido.h"
+	<iostream>
+
+1777420299 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\imprimirarreglo.cpp
+	"ImprimirArreglo.h"
+	<iostream>
+
+1777420302 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\imprimirarreglo.h
+
+1777424533 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\mergesort.cpp
+	"MergeSort.h"
+	<iostream>
+
+1777424053 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\mergesort.h
+
