@@ -36,7 +36,9 @@ int* MergeSort::dividir(int* arreglo, int inicio, int fin) {
 int* MergeSort::juntar(int* arreglo_1, int* arreglo_2, int tamanio1, int tamanio2) {
     int tamnioFinal = tamanio1 + tamanio2;
     int* arregloFinal = new int[tamnioFinal];
+
     int i = 0, j = 0, l = 0;
+
     while (i < tamanio1 && j < tamanio2) {
         if (*(arreglo_1 + i) > *(arreglo_2 + j)) {
             *(arregloFinal + l) = *(arreglo_2 + j);

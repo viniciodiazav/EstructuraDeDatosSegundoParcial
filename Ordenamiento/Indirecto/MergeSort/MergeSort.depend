@@ -1,9 +1,12 @@
 # depslib dependency file v1.0
-1777423713 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\main.cpp
+1777572227 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\main.cpp
 	<iostream>
 	"Arreglo.h"
+	"ArregloDato.h"
 	"MergeSort.h"
+	"MergeSortDato.h"
 	"ImprimirArreglo.h"
+	"ImprimirDatoArreglo.h"
 
 1777420199 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\arreglo.cpp
 	"Arreglo.h"
@@ -26,7 +29,7 @@
 
 1777420302 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\imprimirarreglo.h
 
-1777430857 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\mergesort.cpp
+1777571685 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\mergesort.cpp
 	"MergeSort.h"
 
 1777424053 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\mergesort.h
@@ -35,4 +38,34 @@
 	"Dato.h"
 
 1777476318 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\dato.h
+
+1777476341 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\arreglodato.cpp
+	"ArregloDato.h"
+
+1777476352 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\arreglodato.h
+	"ArregloDatoContenido.h"
+
+1777476387 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\arreglodatocontenido.h
+	"IArregloDato.h"
+
+1777506545 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\iarreglodato.h
+	"Dato.h"
+
+1777476399 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\arreglodatocontenido.cpp
+	"ArregloDatoContenido.h"
+	<iostream>
+
+1777570294 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\imprimirdatoarreglo.cpp
+	"ImprimirDatoArreglo.h"
+	<iostream>
+
+1777570284 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\imprimirdatoarreglo.h
+	"Dato.h"
+
+1777572748 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\src\mergesortdato.cpp
+	"MergeSortDato.h"
+	<iostream>
+
+1777570692 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\mergesort\include\mergesortdato.h
+	"Dato.h"
 
