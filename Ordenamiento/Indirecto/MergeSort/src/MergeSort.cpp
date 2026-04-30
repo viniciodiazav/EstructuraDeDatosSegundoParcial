@@ -1,7 +1,4 @@
 #include "MergeSort.h"
-#include <iostream>
-
-using namespace std;
 
 MergeSort::MergeSort() {}
 
