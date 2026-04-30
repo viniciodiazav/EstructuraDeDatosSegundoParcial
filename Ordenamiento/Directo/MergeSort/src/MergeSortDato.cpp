@@ -11,8 +11,8 @@ void MergeSortDato::ordenar(Dato* arreglo, int inicio, int fin) {
     Dato* resultado = dividir(arreglo, inicio, fin);
     int d;
     for (int i = 0; i <= fin; i++) {
-        d = (resultado + i)->GetDato();
-        (arreglo + i)->SetDato(d);
+        d = resultado[i].GetDato();
+        arreglo[i].SetDato(d);
     }
     delete[] resultado;
 }
@@ -20,8 +20,8 @@ void MergeSortDato::ordenar(Dato* arreglo, int inicio, int fin) {
 Dato* MergeSortDato::dividir(Dato* arreglo, int inicio, int fin) {
     if (inicio == fin) {
         Dato* nuevoArreglo = new Dato[1];
-        int d = (arreglo + inicio)->GetDato();
-        (nuevoArreglo + 0)->SetDato(d);
+        int d = arreglo[inicio].GetDato();
+        nuevoArreglo[0].SetDato(d);
         return nuevoArreglo;
     }
     int mitad = (inicio + fin) / 2;
@@ -45,38 +45,37 @@ Dato* MergeSortDato::juntar(Dato* arreglo_1, Dato* arreglo_2, int tamanio1, int 
 
     int i = 0, j = 0, l = 0;
     int d;
-
     while (i < tamanio1 && j < tamanio2) {
-        if ((arreglo_1 + i)->GetDato() > (arreglo_2 + j)->GetDato()) {
-            d = (arreglo_2 + j)->GetDato();
-            (arregloFinal + l)->SetDato(d);
+        if (arreglo_1[i].GetDato() > arreglo_2[j].GetDato()) {
+            d = arreglo_2[j].GetDato();
+            arregloFinal[l].SetDato(d);
             j += 1;
             l += 1;
-        } else if ((arreglo_1 + i)->GetDato() < (arreglo_2 + j)->GetDato()) {
-            d = (arreglo_1 + i)->GetDato();
-            (arregloFinal + l)->SetDato(d);
+        } else if (arreglo_1[i].GetDato() < arreglo_2[j].GetDato()) {
+            d = arreglo_1[i].GetDato();
+            arregloFinal[l].SetDato(d);
             i += 1;
             l += 1;
-        } else if ((arreglo_1 + i)->GetDato() == (arreglo_2 + j)->GetDato()) {
-            d = (arreglo_2 + j)->GetDato();
-            (arregloFinal + l)->SetDato(d);
+        } else if (arreglo_1[i].GetDato() == arreglo_2[j].GetDato()) {
+            d = arreglo_2[j].GetDato();
+            arregloFinal[l].SetDato(d);
             j += 1;
             l += 1;
-            d = (arreglo_1 + i)->GetDato();
-            (arregloFinal + l)->SetDato(d);
+            d = arreglo_1[i].GetDato();
+            arregloFinal[l].SetDato(d);
             i += 1;
             l += 1;
         }
     }
     while (i < tamanio1 && l < tamanioFinal) {
-        d = (arreglo_1 + i)->GetDato();
-        (arregloFinal + l)->SetDato(d);
+        d = arreglo_1[i].GetDato();
+        arregloFinal[l].SetDato(d);
         i += 1;
         l += 1;
     }
     while (j < tamanio2 && l < tamanioFinal) {
-        d = (arreglo_2 + j)->GetDato();
-        (arregloFinal + l)->SetDato(d);
+        d = arreglo_2[j].GetDato();
+        arregloFinal[l].SetDato(d);
         j += 1;
         l += 1;
     }
