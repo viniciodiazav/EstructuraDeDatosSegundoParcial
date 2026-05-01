@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1776561169 source:c:\users\ldiaza2200\desktop\ed2dop\practica01\main.cpp
+	<iostream>
+	"AutoPOO.h"
+	"PersonaPOO.h"
+
+1776563148 c:\users\ldiaza2200\desktop\ed2dop\practica01\include\autopoo.h
+
+1776563189 c:\users\ldiaza2200\desktop\ed2dop\practica01\include\personapoo.h
+
+1775782527 source:c:\users\ldiaza2200\desktop\ed2dop\practica01\src\personapoo.cpp
+	"PersonaPOO.h"
+
+1776563158 source:c:\users\ldiaza2200\desktop\ed2dop\practica01\src\autopoo.cpp
+	"AutoPOO.h"
+
