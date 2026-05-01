@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1777606741 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\main.cpp
+	<iostream>
+	"Arreglo.h"
+	"ArregloDato.h"
+	"QuickSort.h"
+	"QuickSortDato.h"
+	"ImprimirArreglo.h"
+	"ImprimirDatoArreglo.h"
+
+1777604665 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\arreglo.cpp
+	"Arreglo.h"
+
+1777604653 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\arreglo.h
+	"ArregloContenido.h"
+
+1777604694 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\arreglocontenido.h
+	"IArreglo.h"
+
+1777604736 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\iarreglo.h
+
+1777604703 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\arreglocontenido.cpp
+	"ArregloContenido.h"
+	<iostream>
+
+1777604733 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\iarreglo.cpp
+
+1777604777 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\dato.cpp
+	"Dato.h"
+
+1777604770 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\dato.h
+
+1777604804 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\arreglodato.cpp
+	"ArregloDato.h"
+
+1777604797 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\arreglodato.h
+	"ArregloDatoContenido.h"
+
+1777604838 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\arreglodatocontenido.h
+	"IArregloDato.h"
+
+1777604878 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\iarreglodato.h
+	"Dato.h"
+
+1777604847 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\arreglodatocontenido.cpp
+	"ArregloDatoContenido.h"
+	<iostream>
+
+1777604872 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\iarreglodato.cpp
+
+1777604917 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\imprimirarreglo.cpp
+	"ImprimirArreglo.h"
+	<iostream>
+
+1777604909 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\imprimirarreglo.h
+
+1777604936 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\imprimirdatoarreglo.cpp
+	"ImprimirDatoArreglo.h"
+	<iostream>
+
+1777604945 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\imprimirdatoarreglo.h
+	"Dato.h"
+
+1777605329 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\quicksort.h
+
+1777607028 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\quicksort.cpp
+	"QuickSort.h"
+
+1777606096 c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\include\quicksortdato.h
+	"Dato.h"
+
+1777606868 source:c:\users\ldiaza2200\desktop\estructuradedatos\ordenamiento\indirecto\quicksort\src\quicksortdato.cpp
+	"QuickSortDato.h"
+
