@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-   /* Arreglo* arreglo = new Arreglo(8);
+    Arreglo* arreglo = new Arreglo(8);
     ImprimirArreglo* imp = new ImprimirArreglo();
     MergeSort* mergeSort = new MergeSort();
 
@@ -18,7 +18,7 @@ int main()
 
     mergeSort->ordenar(arreglo->GetArreglo(), 0, arreglo->GetLen() - 1);
 
-    imp->imprimir(arreglo->GetArreglo(), arreglo->GetLen()); */
+    imp->imprimir(arreglo->GetArreglo(), arreglo->GetLen()); 
 
     ArregloDato* arregloDato = new ArregloDato(5);
     ImprimirDatoArreglo* impDato = new ImprimirDatoArreglo();

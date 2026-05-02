@@ -11,6 +11,12 @@ int main()
     ImprimirLista imp = ImprimirLista();
 
     lista->agregarAlFinal(20);
+    lista->agregarAlInicio(30);
+    lista->agregarAlFinal(10);
+    lista->agregarAlFinal(40);
+    lista->agregarAlInicio(20);
+
+    
 
     imp.imprimir(lista);
 
